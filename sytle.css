@@ -19,7 +19,7 @@ h2{
 
 h2#head{
     padding: 10px; 
-    float:left;
+    font-size: 26px;
     display: inline-block;
     background-color: #4aaaa5;
     color: #ffffff;
@@ -72,3 +72,4 @@ button {
     font-size: 10px;
     color: #ffffff;
 }
+.
